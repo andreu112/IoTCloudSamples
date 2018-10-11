@@ -1,0 +1,27 @@
+{
+  "name": "pumbacontroller",
+  "version": "0.1.0",
+  "description": "a wrapper for Pumba to change docker network behaviors via REST API",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "dependencies": {
+    "eslint": "^5.6.0",
+    "express": "^4.16.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rdsea/IoTCloudSamples.git"
+  },
+  "author": "Hong-Linh Truong|Duc-Hung Le",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/rdsea/IoTCloudSamples/issues"
+  },
+  "homepage": "https://github.com/rdsea/IoTCloudSamples#readme"
+}
